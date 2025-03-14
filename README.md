@@ -78,7 +78,7 @@
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nextjs,vite,react,ts,js,tailwind,css,html,figma,ps,firebase,mongodb,gcp&perline=14" />
+<img src="https://skillicons.dev/icons?i=nextjs,vite,react,ts,js,java,tailwind,css,html,figma,ps,firebase,mongodb,gcp&perline=14" />
 </a>
 </p>
 

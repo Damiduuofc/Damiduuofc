@@ -13,7 +13,7 @@
   
 <!--- snake animation --> 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Damiduuxd/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="Snake Eating My Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Damiduuofc/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="Snake Eating My Contribution Graph" />
 </p>
 
 <!--h2 without bottom border--> 
@@ -51,14 +51,14 @@
 <tr border="none">
 <td width="50%" align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Damiduuxd&theme=dark&show_icons=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Damiduuofc&theme=dark&show_icons=true&count_private=true" />
 <br></br>
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Damidu streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Damiduuxd&theme=dark&hide_border=false" /> 
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Damidu streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Damiduuofc&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Damiduuxd&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Damiduuofc&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
 </td>
 </tr>

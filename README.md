@@ -40,7 +40,7 @@
    [![Gmail Badge](https://img.shields.io/badge/-damiduofc@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:damiduofc@gmail.com)
 
 - 🏠 **Find me on Discord:**  
-   [![Discord Badge](https://img.shields.io/badge/-damiduu.xd-7289DA?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/672000104818802688)
+   [![Discord Badge](https://img.shields.io/badge/-damiduuofc-7289DA?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/672000104818802688)
 
 <!--Intro end-->
 

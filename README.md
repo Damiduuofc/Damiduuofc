@@ -2,126 +2,176 @@
   <img src="Cover.png" alt="Banner Image" />
 </p>
 
-<!--horizontal divider(gradiant)-->
+<!--horizontal divider(gradient)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
-<!--- Readme Typing SVG --> 
+
+<!--- Readme Typing SVG --> 
 <div id="user-content-toc">
 <ul align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=30&pause=1000&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Damidu+Abeysinghe;Information+Systems+Student;Front+End+Developer;Turning+Caffeine+Into+Code" alt="Typing SVG" /></a></ul>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=32&pause=1200&color=A9FEF7&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Damidu+Abeysinghe;Information+Systems+Student;Frontend+Developer;Turning+Caffeine+Into+Code+%E2%98%95;Building+Amazing+Web+Experiences" alt="Typing SVG" /></a></ul>
 </div>
   
-<!--- snake animation --> 
+<!--- snake animation --> 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Damiduuofc/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="Snake Eating My Contribution Graph" />
 </p>
 
-<!--h2 without bottom border--> 
+
+
+<!--Current Work Section-->
 <div id="user-content-toc">
 <ul align="center">
-<summary><h2 style="display: inline-block">Learning Never Stops! 🚀</h2></summary>
+<summary><h2 style="display: inline-block; font-family: 'Courier New', monospace; color: #61DAFB;">💻 Currently Working With</h2></summary>
 </ul>
 </div>
 
-<!--Intro start-->
-- 🔭 **I’m currently working on:**  
+- 🔭 **Building Modern Web Applications:**  
    ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
    ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
    ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
 
-- 🌱 **Currently Pursuing:**  
-   **BSc (Hons) in Information Systems University of KDU**
+- 🌱 **Academic Journey:**  
+   **🎓 BSc (Hons) in Information Systems - Kotelawala Defence University**
 
-- ☁️ **Exploring:**  
-   Front-end development and expanding my skill set with **React**.
+- 🚀 **Exploring & Learning:**  
+   Advanced **React Patterns**, **Next.js 14**, **TypeScript Best Practices**, and **Modern CSS Techniques**
 
-- 📫 **Reach me at:**  
-   [![Gmail Badge](https://img.shields.io/badge/-damiduofc@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:damiduofc@gmail.com)
+- 🎯 **2025 Goals:**  
+   ![Goal](https://img.shields.io/badge/Create-Amazing_Web_Apps-FF6B6B?style=for-the-badge)
+   ![Goal](https://img.shields.io/badge/Contribute-Open_Source-4ECDC4?style=for-the-badge)
+   ![Goal](https://img.shields.io/badge/Master-TypeScript-3178C6?style=for-the-badge)
 
-- 🏠 **Find me on Discord:**  
-   [![Discord Badge](https://img.shields.io/badge/-damiduuofc-7289DA?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/672000104818802688)
+<!--- GitHub Stats Section -->
+<div id="user-content-toc">
+<ul align="center">
+<summary><h2 style="display: inline-block; font-family: 'Arial Black', sans-serif; background: linear-gradient(90deg, #FF6B6B, #4ECDC4, #45B7D1); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">📊 GitHub Analytics & Performance</h2></summary>
+</ul>
+</div>
 
-<!--Intro end-->
-
-<!--- stats & Trophy (start) -->
 <p align="center">
-<!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Damiduuofc&theme=dark&show_icons=true&count_private=true" />
+<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Damiduuofc&theme=algolia&show_icons=true&count_private=true&include_all_commits=true" />
 <br></br>
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Damidu streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Damiduuofc&theme=dark&hide_border=false" /> 
+<img title="🔥 Streak Stats" alt="Damidu streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Damiduuofc&theme=algolia&border_radius=10" /> 
 </td>
 
 <td width="50%" align="center">
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Damiduuofc&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Damiduuofc&theme=algolia&layout=compact&langs_count=10"/>
+<br></br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Damiduuofc&bg_color=0f2027&color=1cafc0&line=1cafc0&point=1cafc0&area=true&hide_border=true" alt="Activity Graph" width="400"/>
 
 </td>
 </tr>
 </table>
-<!--- stats (end) -->
-
-
 </p> 
 
-<!--h1 without bottom border-->
+<!--Tech Stack Section-->
 <div id="user-content-toc">
 <ul align="center">
-<summary><h2 style="display: inline-block">Technologies I Work With👨🏻‍💻</h2></summary>
+<summary><h2 style="display: inline-block; font-family: 'Impact', sans-serif; letter-spacing: 2px;">🛠️ Technologies & Tools Arsenal</h2></summary>
 </ul>
 </div>
-
-<!--tech stack icons-->
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nextjs,vite,react,ts,js,java,tailwind,css,html,figma,ps,firebase,mongodb,gcp&perline=14" />
-</a>
-</p>
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-<ul align="center">
-<summary><h2 style="display: inline-block">🌐 Connect with me! 🎉</h2></summary>
-</ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-  <a href="https://www.linkedin.com/in/damidu-abeysinghe/" target="blank">
-    <img align="center" src="/linkedin.png" alt="LinkedIn" height="50" width="50" style="margin: 0 20px;" />
-  </a> 
-  <a href="https://www.instagram.com/damiduu.xd/" target="blank">
-    <img align="center" src="/insta.png" alt="Instagram" height="50" width="50" style="margin: 0 20px;" />
-  </a> 
-  <a href="https://discordapp.com/users/672000104818802688" target="blank">
-    <img align="center" src="/discord1.png" alt="Discord" height="53" width="53" style="margin: 0 20px;" />
-  </a> 
-  <a href="https://damidusportfolio.vercel.app" target="blank">
-    <img align="center" src="/portfolio.png" alt="Portfolio" height="50" width="50" style="margin: 0 20px;" />
-  </a> 
-  <a href="https://music.youtube.com/channel/UCbI8uv0SEg3wg8W2qZ4F1LQ?si=FAZVb5wsq9SnALJw" target="blank">
-    <img align="center" src="/ytmusic1.png" alt="YouTube Music" height="60" width="60" style="margin: 0 20px;" />
-  </a> 
-  <a href="https://open.spotify.com/user/31n7ucpfn4cqgmwxhd5fa7rv4lpi" target="blank">
-    <img align="center" src="/spotify.png" alt="Spotify" height="50" width="50" style="margin: 0 20px;" />
-  </a> 
-</p>
-
-
-
-<!--profile visit count-->
-<br/>
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Damiduuofc&icon=3&color=6)](https://visitcount.itsvg.in)
+**🎨 Frontend Development:**
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&perline=8" />
+</a>
+</p>
+
+**⚙️ Backend & Database:**
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,firebase,mongodb&perline=3" />
+</a>
+</p>
+
+**🎯 Design & Cloud:**
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=figma,ps,gcp&perline=3" />
+</a>
+</p>
 
 </div>
 
-<!--horizontal divider(gradiant)-->
+<!-- Contact Section -->
+<div id="user-content-toc">
+<ul align="center">
+<summary><h2 style="display: inline-block; font-family: 'Trebuchet MS', sans-serif; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">📫 Let's Connect & Collaborate!</h2></summary>
+</ul>
+</div>
+
+<div align="center">
+
+**📧 Drop me a line:**  
+[![Gmail Badge](https://img.shields.io/badge/-damiduofc@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge&labelColor=D14836)](mailto:damiduofc@gmail.com)
+
+**💼 Professional Network:**  
+[![LinkedIn Badge](https://img.shields.io/badge/-Damidu_Abeysinghe-0077B5?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0077B5)](https://www.linkedin.com/in/damidu-abeysinghe/)
+
+**🎮 Gaming & Chat:**  
+[![Discord Badge](https://img.shields.io/badge/-damiduuofc-7289DA?logo=discord&logoColor=white&style=for-the-badge&labelColor=7289DA)](https://discordapp.com/users/672000104818802688)
+
+**🌐 Portfolio & Work:**  
+[![Portfolio Badge](https://img.shields.io/badge/-My_Portfolio-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge&labelColor=FF5722)](https://damidusportfolio.vercel.app)
+
+</div>
+
+<!-- Social Media Icons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/damidu-abeysinghe/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50" style="margin: 0 15px;" />
+  </a> 
+  <a href="https://www.instagram.com/damiduu.xd/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="50" width="50" style="margin: 0 15px;" />
+  </a> 
+  <a href="https://damidusportfolio.vercel.app" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio" height="50" width="50" style="margin: 0 15px;" />
+  </a> 
+  <a href="https://music.youtube.com/channel/UCbI8uv0SEg3wg8W2qZ4F1LQ?si=FAZVb5wsq9SnALJw" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Youtube_Music_icon.svg" alt="YouTube Music" height="60" width="60" style="margin: 0 15px;" />
+  </a> 
+</p>
+
+<!-- Support Section -->
+<div id="user-content-toc">
+<ul align="center">
+<summary><h3 style="display: inline-block; font-family: 'Comic Sans MS', cursive; color: #FF6B6B;">💖 Support My Journey</h3></summary>
+</ul>
+</div>
+
+<div align="center">
+<p style="font-style: italic; font-size: 16px;">If you find my work helpful, consider buying me a coffee! ☕</p>
+
+<a href="https://www.buymeacoffee.com/damiduofc" target="_blank">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FFDD00" alt="Buy Me A Coffee"/>
+</a>
+
+</div>
+
+
+
+<!--Profile Stats-->
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/Damiduuofc?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/Damiduuofc?logo=github&style=for-the-badge&color=fbbf24&labelColor=1c1917&label=TOTAL+STARS)
+
+</div>
+
+<!--Footer Wave-->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling"/>
+</div>
+
+<!--horizontal divider(gradient)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

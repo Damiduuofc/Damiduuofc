@@ -139,7 +139,7 @@
 <div align="center">
 <p style="font-style: italic; font-size: 16px;">If you find my work helpful, consider buying me a coffee! ☕</p>
 
-<a href="https://www.buymeacoffee.com/damiduofc" target="_blank">
+<a href="coff.ee/damiduuxd" target="_blank">
 <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FFDD00" alt="Buy Me A Coffee"/>
 </a>
 

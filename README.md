@@ -127,20 +127,7 @@
 </div>
 
 <!-- Social Media Icons -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/damidu-abeysinghe/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50" style="margin: 0 15px;" />
-  </a> 
-  <a href="https://www.instagram.com/damiduu.xd/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="50" width="50" style="margin: 0 15px;" />
-  </a> 
-  <a href="https://damidusportfolio.vercel.app" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio" height="50" width="50" style="margin: 0 15px;" />
-  </a> 
-  <a href="https://music.youtube.com/channel/UCbI8uv0SEg3wg8W2qZ4F1LQ?si=FAZVb5wsq9SnALJw" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Youtube_Music_icon.svg" alt="YouTube Music" height="60" width="60" style="margin: 0 15px;" />
-  </a> 
-</p>
+
 
 <!-- Support Section -->
 <div id="user-content-toc">

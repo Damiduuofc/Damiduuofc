@@ -97,7 +97,7 @@
 **🎯 Design & Cloud:**
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=figma,ps,gcp&perline=3" />
+<img src="https://skillicons.dev/icons?i=figma,ps&perline=3" />
 </a>
 </p>
 

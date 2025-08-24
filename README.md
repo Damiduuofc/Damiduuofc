@@ -41,7 +41,7 @@
 - 🎯 **2025 Goals:**  
    ![Goal](https://img.shields.io/badge/Create-Amazing_Web_Apps-FF6B6B?style=for-the-badge)
    ![Goal](https://img.shields.io/badge/Contribute-Open_Source-4ECDC4?style=for-the-badge)
-   ![Goal](https://img.shields.io/badge/Master-TypeScript-3178C6?style=for-the-badge)
+   ![Goal](https://img.shields.io/badge/Master-JavaScript-3178C6?style=for-the-badge)
 
 <!--- GitHub Stats Section -->
 <div id="user-content-toc">

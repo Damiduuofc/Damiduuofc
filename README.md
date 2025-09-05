@@ -29,14 +29,14 @@
 - 🔭 **Building Modern Web Applications:**  
    ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
    ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
+   ![JavaScript](https://img.shields.io/badge/-JavaScript-007ACC?logo=javascript&logoColor=white&style=for-the-badge)
    ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 
 - 🌱 **Academic Journey:**  
    **🎓 BSc (Hons) in Information Systems - Kotelawala Defence University**
 
 - 🚀 **Exploring & Learning:**  
-   Advanced **React Patterns**, **Next.js 14**, **TypeScript Best Practices**, and **Modern CSS Techniques**
+   Advanced **React Patterns**, **Next.js 14**, **JavaScript Best Practices**, and **Modern CSS Techniques**
 
 - 🎯 **2025 Goals:**  
    ![Goal](https://img.shields.io/badge/Create-Amazing_Web_Apps-FF6B6B?style=for-the-badge)

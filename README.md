@@ -128,15 +128,6 @@
 
 <!-- Social Media Icons -->
 
-
-<!-- Support Section -->
-<div id="user-content-toc">
-<ul align="center">
-<summary><h3 style="display: inline-block; font-family: 'Comic Sans MS', cursive; color: #FF6B6B;">💖 Support My Journey</h3></summary>
-</ul>
-</div>
-
-
 <!--Profile Stats-->
 <div align="center">
 

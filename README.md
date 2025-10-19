@@ -19,30 +19,21 @@
 
 
 
-<!--Current Work Section-->
-<div id="user-content-toc">
-<ul align="center">
-<summary><h2 style="display: inline-block; font-family: 'Courier New', monospace; color: #61DAFB;">💻 Currently Working With</h2></summary>
-</ul>
-</div>
+## 🚀 About Me
 
-- 🔭 **Building Modern Web Applications:**  
-   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-   ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-007ACC?logo=javascript&logoColor=white&style=for-the-badge)
-   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-
-- 🌱 **Academic Journey:**  
-   **🎓 BSc (Hons) in Information Systems - Kotelawala Defence University**
-
-- 🚀 **Exploring & Learning:**  
-   Advanced **React Patterns**, **Next.js 14**, **JavaScript Best Practices**, and **Modern CSS Techniques**
-
-- 🎯 **2025 Goals:**  
-   ![Goal](https://img.shields.io/badge/Create-Amazing_Web_Apps-FF6B6B?style=for-the-badge)
-   ![Goal](https://img.shields.io/badge/Contribute-Open_Source-4ECDC4?style=for-the-badge)
-   ![Goal](https://img.shields.io/badge/Master-JavaScript-3178C6?style=for-the-badge)
-
+```js
+const damidu = {
+  education: "BSc (Hons) Information Systems @ KDU",
+  focus: ["React", "Next.js", "JavaScript", "Modern CSS"],
+  currentlyLearning: "Advanced React Patterns & Next.js 14",
+  goals_2025: [
+    "Master JavaScript",
+    "Contribute to Open Source",
+    "Build Amazing Projects"
+  ],
+  funFact: "I turn caffeine into code ☕"
+};
+```
 <!--- GitHub Stats Section -->
 <div id="user-content-toc">
 <ul align="center">
@@ -50,26 +41,16 @@
 </ul>
 </div>
 
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Damiduuofc&theme=algolia&show_icons=true&count_private=true&include_all_commits=true" />
-<br></br>
-<img title="🔥 Streak Stats" alt="Damidu streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Damiduuofc&theme=algolia&border_radius=10" /> 
-</td>
-
-<td width="50%" align="center">
-
-<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Damiduuofc&theme=algolia&layout=compact&langs_count=10"/>
-<br></br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Damiduuofc&bg_color=0f2027&color=1cafc0&line=1cafc0&point=1cafc0&area=true&hide_border=true" alt="Activity Graph" width="400"/>
-
-</td>
-</tr>
-</table>
-</p> 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Damiduuofc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Damiduuofc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damiduuofc&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Damiduuofc&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Activity Graph" />
+</div>
 
 <!--Tech Stack Section-->
 <div id="user-content-toc">
@@ -122,7 +103,8 @@
 [![Discord Badge](https://img.shields.io/badge/-damiduuofc-7289DA?logo=discord&logoColor=white&style=for-the-badge&labelColor=7289DA)](https://discordapp.com/users/672000104818802688)
 
 **🌐 Portfolio & Work:**  
-[![Portfolio Badge](https://img.shields.io/badge/-My_Portfolio-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge&labelColor=FF5722)](https://damidusportfolio.vercel.app)
+[![Portfolio Badge](https://img.shields.io/badge/-My_Portfolio-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge&labelColor=FF5722)](https://damidu.me)
+
 
 </div>
 

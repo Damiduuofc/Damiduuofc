@@ -17,8 +17,6 @@
   <img src="https://raw.githubusercontent.com/Damiduuofc/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="Snake Eating My Contribution Graph" />
 </p>
 
-
-
 ## 🚀 About Me
 
 ```js
@@ -34,6 +32,7 @@ const damidu = {
   funFact: "I turn caffeine into code ☕"
 };
 ```
+
 <!--- GitHub Stats Section -->
 <div id="user-content-toc">
 <ul align="center">
@@ -41,13 +40,25 @@ const damidu = {
 </ul>
 </div>
 
+<!-- Main GitHub Stats using Profile Summary Cards -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Damiduuofc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Damiduuofc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Damiduuofc&theme=tokyonight" alt="Profile Details" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Damiduuofc&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Damiduuofc&theme=tokyonight" alt="Top Languages by Commit" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Damiduuofc&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Damiduuofc&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damiduuofc&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Damiduuofc&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Activity Graph" />
 </div>
@@ -105,10 +116,7 @@ const damidu = {
 **🌐 Portfolio & Work:**  
 [![Portfolio Badge](https://img.shields.io/badge/-My_Portfolio-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge&labelColor=FF5722)](https://damidu.me)
 
-
 </div>
-
-<!-- Social Media Icons -->
 
 <!--Profile Stats-->
 <div align="center">

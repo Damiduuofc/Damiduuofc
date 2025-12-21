@@ -19,19 +19,15 @@
 
 ## 🚀 About Me
 
-```js
-const damidu = {
-  education: "BSc (Hons) Information Systems @ KDU",
-  focus: ["React", "Next.js", "JavaScript", "Modern CSS"],
-  currentlyLearning: "Advanced React Patterns & Next.js 14",
-  goals_2025: [
-    "Master JavaScript",
-    "Contribute to Open Source",
-    "Build Amazing Projects"
-  ],
-  funFact: "I turn caffeine into code ☕"
-};
-```
+I’m an **Information Systems undergraduate at General Sir John Kotelawala Defence University (KDU)** with a strong passion for **frontend development and modern web technologies**.
+
+I enjoy crafting **clean, responsive, and user-focused interfaces**, primarily using **React, Next.js, and modern CSS frameworks**. I’m constantly learning, experimenting, and pushing myself to build impactful projects that combine **performance, usability, and aesthetics**.
+
+🔹 Currently exploring **advanced React patterns and Next.js 14**  
+🔹 Actively working on **real-world and academic projects**  
+🔹 Interested in **open-source contributions and collaborative development**  
+🔹 Fun fact: *I turn caffeine into code* ☕
+
 
 <!--- GitHub Stats Section -->
 <div id="user-content-toc">
@@ -40,28 +36,41 @@ const damidu = {
 </ul>
 </div>
 
-<!-- Main GitHub Stats using Profile Summary Cards -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Damiduuofc&theme=tokyonight" alt="Profile Details" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Damiduuofc&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Damiduuofc&theme=tokyonight" alt="Top Languages by Commit" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Damiduuofc&theme=tokyonight" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Damiduuofc&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damiduuofc&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+## 📊 GitHub Analytics & Performance
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Damiduuofc&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Activity Graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Damiduuofc&theme=omni&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Damiduuofc&theme=omni&hide_border=true&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Damiduuofc&theme=omni&hide_border=true&layout=donut&custom_title=Most%20Used%20Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Damiduuofc&theme=omni" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Damiduuofc&theme=omni" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Damiduuofc&theme=omni&utcOffset=5" width="32%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Damiduuofc&theme=omni" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Damiduuofc&theme=omni&hide_border=true&area=true" />
+</p>
+
+
+
+
+
 
 <!--Tech Stack Section-->
 <div id="user-content-toc">
@@ -102,21 +111,20 @@ const damidu = {
 </ul>
 </div>
 
-<div align="center">
-
-**📧 Drop me a line:**  
-[![Gmail Badge](https://img.shields.io/badge/-damiduofc@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge&labelColor=D14836)](mailto:damiduofc@gmail.com)
-
-**💼 Professional Network:**  
-[![LinkedIn Badge](https://img.shields.io/badge/-Damidu_Abeysinghe-0077B5?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0077B5)](https://www.linkedin.com/in/damidu-abeysinghe/)
-
-**🎮 Gaming & Chat:**  
-[![Discord Badge](https://img.shields.io/badge/-damiduuofc-7289DA?logo=discord&logoColor=white&style=for-the-badge&labelColor=7289DA)](https://discordapp.com/users/672000104818802688)
-
-**🌐 Portfolio & Work:**  
-[![Portfolio Badge](https://img.shields.io/badge/-My_Portfolio-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge&labelColor=FF5722)](https://damidu.me)
-
-</div>
+<p align="center">
+  <a href="mailto:damiduofc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-damiduofc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/damidu-abeysinghe/">
+    <img src="https://img.shields.io/badge/LinkedIn-Damidu_Abeysinghe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/672000104818802688">
+    <img src="https://img.shields.io/badge/Discord-damiduuofc-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://damidu.me">
+    <img src="https://img.shields.io/badge/Portfolio-damidu.me-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 <!--Profile Stats-->
 <div align="center">

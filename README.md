@@ -12,9 +12,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=32&pause=1200&color=A9FEF7&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Damidu+Abeysinghe;Information+Systems+Student;Frontend+Developer;Turning+Caffeine+Into+Code+%E2%98%95;Building+Amazing+Web+Experiences" alt="Typing SVG" /></a></ul>
 </div>
   
-<!--- snake animation --> 
+<!-- Snake Contribution Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Damiduuofc/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="Snake Eating My Contribution Graph" />
+  <img 
+    src="https://raw.githubusercontent.com/Damiduuofc/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg"
+    alt="Snake Eating My Contribution Graph"
+  />
 </p>
 
 ## 🚀 About Me

@@ -14,11 +14,9 @@
   
 <!-- Snake Contribution Animation -->
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Damiduuofc/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg"
-    alt="Snake Eating My Contribution Graph"
-  />
+  <img src="https://raw.githubusercontent.com/Damiduuofc/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ## 🚀 About Me
 

@@ -14,9 +14,11 @@
   
 <!-- Snake Contribution Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Damiduuofc/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" />
+  <img
+    src="https://raw.githubusercontent.com/Damiduuofc/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake Animation"
+  />
 </p>
-
 
 ## 🚀 About Me
 
